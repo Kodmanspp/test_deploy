@@ -1,0 +1,23 @@
+
+.sign-in-form{
+  display: grid;
+  grid-template-columns: 25vw;
+  justify-content: center;
+  grid-gap: 40px;
+}
+
+.sign-in-input{
+  width: 100%;
+  border: none;
+  border-radius: 4px 4px 0px 0px;
+}
+
+.sign-in-error{
+  text-align: left;
+  font-size: 18px;
+  color: #ff2525;
+}
+
+.sign-in-btn{
+
+}

@@ -1,0 +1,19 @@
+.sign-in-bg{
+  background: url('../../../assets/auth/login-bg.svg') no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.sign-in-container{
+  text-align: center;
+  padding-top: 10vh;
+}
+
+.sign-in-container h2{
+  margin-bottom: 50px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 112px;
+}
+
